@@ -1,0 +1,231 @@
+.products {
+	border: 1px solid #333;
+	background-color: #f1f1f1;
+	border-radius: 5px;
+	padding: 16px;
+	margin-bottom: 20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-btn {
+    width: 70px;
+    height: 70px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+.previous {
+    background-image: url(../images/previous-product.png);
+    float: left;
+}
+
+.next {
+    background-image: url(../images/next-product.png);
+    float: right;
+}
+
+
+/* THIS IS THE FOLLOWING WHICH STATES THE HEXAGON STYLES*/
+
+/* THIS IS THE FOLLOWING WHICH STATES THE HEXAGON STYLES*/
+
+/* THIS IS THE FOLLOWING WHICH STATES THE HEXAGON STYLES*/
+
+#buttons {
+    width: 1000px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+#buttons a {
+    float: left;
+
+}
+
+#buttons a:not(:last-of-type) {
+    margin-right: 60px;
+
+}
+
+.numbers p {
+    font-size: 46px;
+    margin: -10px 5px 5px 25px;
+    color: #ed1d4f;
+    font-family: 'DJB Pokey Dots';
+    font-weight: normal;
+    filter: drop-shadow(4px 4px 5px black);
+    transition: .4s ease-in-out;
+    -webkit-transition: .4s ease;
+}
+
+.numbers p:hover {
+    color: red;
+    transform: scale(1.2);
+    /* For Safari 3.1 to 6.0 */
+}
+
+
+
+#buttons .active-btn {
+    color: black;
+    transform: scale(1.2);
+    filter: drop-shadow(4px 4px 5px #fff);
+}
+
+.gallery-section  h1{
+    text-align: center;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-size: 35px;  
+.products 
+		{
+			border: 1px solid #333;
+			background-color: #f1f1f1;
+			border-radius: 5px;
+			padding: 16px;
+			margin-bottom: 20px;
+			
+		}
+		.table
+		{
+			margin: 0px auto;
+			float: none;
+		}
+		.row
+		{
+			margin: 0px auto;
+			float: none;
+		}
+		.centered
+		{
+			margin: 0 auto;
+			float: none;
+		}
+		.button
+		{
+			background: #6394f8;
+			color: white;
+			text-align: center;
+			padding: 12px;
+			text-decoration: none;
+			display:block;
+			border-radius: 3px;
+			font-size: 16px;
+			margin: 25px 0 15px 0;
+		}
+		.button:visited 
+		{
+			text-decoration: none;
+			color: white;
+		}
+		.button:hover
+		{
+			background: #7fa9ff;
+			text-decoration: none;
+			color: white;
+		}
+		.button:active
+		{
+			text-decoration: none;
+			color: white;
+		}
+		.btn-danger
+		{
+			font-size: 12px;
+			padding: 3px;
+			
+		}
+		.btn-danger:hover
+		{
+			text-decoration: none;
+		}
+		a
+		{
+			text-decoration: none;
+		}
+		a:hover
+		{
+			text-decoration: none;
+		}
+		h3
+		{
+			margin-top: 
+		}}
+.gallery-section{
+      text-align: center;
+
+}
+
+.primary-image{
+    width: 60%;
+}

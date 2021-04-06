@@ -1,0 +1,139 @@
+.sign-up-section {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+.form {
+	margin: 0 220px;
+    width: 470px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.sign-up-section #sign-text {
+    padding: 10px 5px;
+    font-size: 55px;
+    text-align: center;
+    color:#000000;
+    
+}
+
+
+
+.form p.contact {
+    font-size: 12px;
+    margin: 0px 0px 10px 0;
+    line-height: 14px;
+}
+
+.form input[type="text"] {
+    width: 400px;
+    margin-top: -5px;
+	background-color: #DDD9D9;
+}
+
+.form input[type="email"] {
+    width: 400px;
+    margin-top: -5px;
+	background-color: #DDD9D9;
+}
+
+.form input[type="password"] {
+    width: 400px;
+    margin-top: -5px;
+	background-color: #DDD9D9;
+}
+
+.form input.birthday {
+    width: 60px;
+	background-color: #DDD9D9;
+}
+
+.form input.birthyear {
+    width: 100px;
+	background-color: #DDD9D9;
+}
+
+.form label {
+    color:#000000;
+    font-size: 16px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.form label.month {
+    width: 135px;
+}
+
+.form input{
+    
+    border: 1px solid #DDD9D9;
+    padding: 10px;
+    color:#000000;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    margin-top: -10px;
+}
+
+.form input:focus{
+    border: 1px solid #CE070A;
+    background-color:#FFFFFF;
+}
+
+.form .select-style {
+    appearance: button;
+    border-radius: 2px;
+    padding-end: 20px;
+    padding-start: 2px;
+    user-select: none;
+
+    border: 0px solid #DDD9D9;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.form .gender {
+    width: 410px;
+}
+
+.form input.btnsubmit {
+    background:#C10E11;
+    padding: 10px 10px;
+    color:#FFFFFF;
+    font-weight: bold; 
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 20px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
